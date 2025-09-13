@@ -9,6 +9,8 @@
 This program is an end-to-end reuseable Python data pipeline that predicts the NBA MVP in a given season, given a set of data for that season.  
 
 ## Features  
-- Webscraping: retrieves data from an online source (whilst conforming to the websites t&c's about webscraping)  
-- Data cleaning: cleans formats the data to make it ready for training, which includes labelling data, dealing with duplicate entries, and merging datasets to maximise the data diversity  
+- Webscraping: retrieves data from an online source (whilst conforming to the websites t&c's about webscraping)
+  
+- Data cleaning: cleans formats the data to make it ready for training, which includes labelling data, dealing with duplicate entries, and merging datasets to maximise the data diversity
+  
 - ML algorithms: implements linear regression and random forests to predict the MVP, whilst simultaneously using evaluation stratergies such as backtesting and designing error metrics  
