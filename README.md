@@ -13,4 +13,6 @@ This program is an end-to-end reuseable Python data pipeline that predicts the N
   
 - Data cleaning: cleans formats the data to make it ready for training, which includes labelling data, dealing with duplicate entries, and merging datasets to maximise the data diversity
   
-- ML algorithms: implements linear regression and random forests to predict the MVP, whilst simultaneously using evaluation stratergies such as backtesting and designing error metrics  
+- ML algorithms: implements linear regression and random forests to predict the MVP, whilst simultaneously using evaluation stratergies such as backtesting and designing error metrics
+
+**Due to high rates of request activity on the target website [(Basketball Reference)](https://www.basketball-reference.com/), the webscraper may not function. The original files that were used to train the model have been added, in the event the webscraper does not function.**
