@@ -17,4 +17,5 @@ This program is an end-to-end reuseable Python data pipeline that predicts the N
 
 - EDA: also includes a very brief EDA (Exploratory Data Analysis) which to find some trends in the data and answer some questions
   
-**Due to high rates of request activity on the target website [(Basketball Reference)](https://www.basketball-reference.com/), the webscraper may not function. In this event, the files that were scraped whilst website was still up and that were used to train the model have been included in the repository.**
+**Due to high rates of request activity on the target website [(Basketball Reference)](https://www.basketball-reference.com/), the webscraper may not function.   
+In this event, the files that were scraped whilst website was still up and that were used to train the model have been included in the repository.**
