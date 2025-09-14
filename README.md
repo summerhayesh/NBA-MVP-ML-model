@@ -18,7 +18,7 @@ This program is an end-to-end reuseable Python data pipeline that predicts the N
 - EDA: also includes a very brief EDA (Exploratory Data Analysis) which to find some trends in the data and answer some questions
   
 **Due to high rates of request activity on the target website [(Basketball Reference)](https://www.basketball-reference.com/), the webscraper may not function.   
-In this event, the files that were scraped whilst website was still up and that were used to train the model have been included in the repository.**
+In this event, the files that were scraped whilst website was still up and that were used to train the model have been included in the repository in "csvFiles"**
 
 ## Quick demo:
 
@@ -42,8 +42,6 @@ It then cleans the files, to format them for training
 Then it asks the which years the user would like to use for training and which machine learning algorithm to use, and gives provides the user the average precision of the said model
 
 <img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Model.png">
-
-**The original files used for training the algorithms are attached in "csvFiles"**
 
 ## Future improvements:
   - Implement a basic GUI
