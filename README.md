@@ -32,7 +32,7 @@ The program then scrapes data, and stores it locally:
 
 <img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Per-game%20raw_HTML.png" width="850" height="850">
 
-Then cleans the files, to format them for training
+It cleans the files, to format them for training
 
 <img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Cleaning.png">
 
