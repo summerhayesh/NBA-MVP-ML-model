@@ -19,3 +19,8 @@ This program is an end-to-end reuseable Python data pipeline that predicts the N
   
 **Due to high rates of request activity on the target website [(Basketball Reference)](https://www.basketball-reference.com/), the webscraper may not function.   
 In this event, the files that were scraped whilst website was still up and that were used to train the model have been included in the repository.**
+
+## Quick demo:
+
+Executing the program firstly will ask the user from which years they want to scrape data from  :
+
