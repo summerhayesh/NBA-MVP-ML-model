@@ -24,7 +24,7 @@ In this event, the files that were scraped whilst website was still up and that 
 
 Executing the program firstly will ask the user from which years they want to scrape data from  :
 
-![Webscraper](https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Webscraper_1.png)
+<img src ="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Webscraper_1.png">
 
 The program then scrapes data, and stores it locally:
 
@@ -35,3 +35,9 @@ The program then scrapes data, and stores it locally:
 Then cleans the files, to format them for training
 
 <img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Cleaning.png">
+
+Then it asks the which years they would like to predict from and which machine learning algorithm to use, and gives provides the user the average precision of the said model:
+
+<img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Model.png">
+
+
