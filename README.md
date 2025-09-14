@@ -26,18 +26,28 @@ Executing the program firstly will ask the user from which years they want to sc
 
 <img src ="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Webscraping.png">
 
+The webscraper checks if the files are already stored locally, so duplicate files won't be downloaded.  
+It also limits the rate of requests, allowing so the target website isn't overloaded
+
 The program then scrapes data, and stores it locally:
 
 <img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/File_storage.png" width="850" height="850">
 
 <img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Per-game%20raw_HTML.png" width="850" height="850">
 
-It cleans the files, to format them for training
+It then cleans the files, to format them for training
 
 <img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Cleaning.png">
 
-Then it asks the which years they would like to predict from and which machine learning algorithm to use, and gives provides the user the average precision of the said model:
+Then it asks the which years the user would like to use for training and which machine learning algorithm to use, and gives provides the user the average precision of the said model
 
 <img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Model.png">
 
+**The original files used for training the algorithms are attached in "csvFiles"**
 
+## Future improvements:
+  - Implement a basic GUI
+  - Improve program functionality so it specifies which player it predicts will win MVP, given a specific year
+  - Scrape additional data from target website to increase diversity of data
+  - Use try except blocks to improve code readability
+  - Try implementing different ML algorithms
