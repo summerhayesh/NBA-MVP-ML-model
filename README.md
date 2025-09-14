@@ -24,3 +24,4 @@ In this event, the files that were scraped whilst website was still up and that 
 
 Executing the program firstly will ask the user from which years they want to scrape data from  :
 
+<img width="2395" height="680" alt="Image" src="https://github.com/user-attachments/assets/cc993309-b882-4717-af1e-2b4ca4eccb70" />
