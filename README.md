@@ -25,3 +25,7 @@ In this event, the files that were scraped whilst website was still up and that 
 Executing the program firstly will ask the user from which years they want to scrape data from  :
 
 ![Webscraper](https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Webscraper_1.png)
+
+The program then scrapes data, and stores it locally:
+
+![File storage](https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Local%20file%20storage.png)
