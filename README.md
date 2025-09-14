@@ -28,4 +28,4 @@ Executing the program firstly will ask the user from which years they want to sc
 
 The program then scrapes data, and stores it locally:
 
-<img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Local%20file%20storage.png" height="200">
+<img src="https://github.com/summerhayesh/NBA-MVP-ML-model/blob/main/Local%20file%20storage.png" height="400">
